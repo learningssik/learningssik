@@ -1,3 +1,5 @@
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Hello%20World!&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Wonsik's%20github%20profile&descAlignY=70)
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! </h1>
 <img src="claire-dancing.gif" width="250"/> 
 
@@ -10,7 +12,7 @@
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-orange?style=flat-square&logo=PyTorch&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=TensorFlow&logoColor=white" />
   
-  <img alt="Django" src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=Django&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-0e5899?style=flat-square&logo=Flask&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=mysql&logoColor=white" />
   
@@ -21,6 +23,8 @@
   <img alt="github" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" />
   
 </p>
+
+
 <!--
 **MegaGnar13/MegaGnar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
