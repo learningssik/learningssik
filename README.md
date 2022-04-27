@@ -1,4 +1,4 @@
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Hello%20World!&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Wonsik's%20github%20profile&descAlignY=70)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Hello%20World!&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Wonssik's%20github%20profile&descAlignY=70)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! </h1>
 <img src="claire-dancing.gif" width="200"/> 
@@ -31,7 +31,7 @@ I'm wonsik, prospective `data engineer` and `backend developer` from <img src="s
   
 </p>
 
-[![MegaGnar13's GitHub stats](https://github-readme-stats.vercel.app/api?username=MegaGnar13)](https://github.com/MegaGnar13/github-readme-stats)
+![MegaGnar13's GitHub stats](https://github-readme-stats.vercel.app/api?username=MegaGnar13)
 
 <!--
 **MegaGnar13/MegaGnar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
