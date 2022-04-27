@@ -33,6 +33,7 @@ I'm wonsik, prospective `data engineer` and `backend developer` from <img src="s
 ![learningssik's github stats](https://github-readme-stats.vercel.app/api?username=learningssik&show_icons=true)
 [![learningssik's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=learningssik&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/learningssik)
 
+
 <!--
 **MegaGnar13/MegaGnar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
