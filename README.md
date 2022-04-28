@@ -8,6 +8,7 @@ I'm wonsik, prospective `data engineer` and `backend developer` from <img src="s
   
   
 <h3>Things I code with</h3>
+
 <p>
 
   <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
