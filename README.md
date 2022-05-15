@@ -37,6 +37,7 @@ I'm wonsik, prospective `data engineer` and `backend developer` from <img src="s
   <img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=Linux&logoColor=white" />
   
+  
 </p>
 
 ![learningssik's github stats](https://github-readme-stats.vercel.app/api?username=learningssik&show_icons=true)
