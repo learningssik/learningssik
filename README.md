@@ -5,8 +5,6 @@
 <img src="claire-dancing.gif" width="200"/> 
 
 I'm wonsik, prospective `data engineer` and `backend developer` from <img src="south-korea.png" width="20"/> <b>South Korea.</b> 
-
-  
   
 <h3>Things I code with</h3>
 
