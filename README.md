@@ -40,7 +40,7 @@ I'm wonsik, prospective `data engineer` and `backend developer` from <img src="s
   
 </p>
 
-![learningssik's github stats](https://github-readme-stats.vercel.app/api?username=learningssik&show_icons=true)[![learningssik's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=learningssik&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/learningssik)     
+![learningssik's github stats](https://github-readme-stats.vercel.app/api?username=learningssik&show_icons=true) <tab> [![learningssik's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=learningssik&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/learningssik)     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoon6624)](https://solved.ac/이름/)
 <!--
 **MegaGnar13/MegaGnar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
