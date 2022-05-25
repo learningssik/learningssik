@@ -4,12 +4,15 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! </h1>
 <img src="claire-dancing.gif" width="200"/> 
 
-
-
 - 👨‍💻I'm wonsik, prospective `data engineer` and `backend developer` from <img src="south-korea.png" width="20"/> <b>South Korea.</b> 
 - 👨‍🎓I majored in electric engineering at DGIST(Daegu Gyeongbuk Institute of Science and Technology).
 
-<h3>Things I code with</h3>
+<h2>📖My project </h2>
+
+- [<a href = "https://github.com/learningssik/Computer-Vision-Project-Report">Link</a>] When I was an undergraduate at university, I conducted research on `image detection` and `image classfication` as an undergraduate research student in the `AI/image processing lab`.
+
+
+<h2>💻Things I code with</h2>
 
 <p>
 
