@@ -14,12 +14,13 @@
 
 <h2>💻Things I code with</h2>
   
-  <h3>Level 3(Can write code without assistance)</h3>
+  <h3>🔍Level 3(Can write code without assistance)</h3>
   <p>
   <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
   </p>
-  <h3>Level 2(Know how to use it, and is able to interpret code)</h3>
+  
+  <h3>🔍Level 2(Know how to use it, and is able to interpret code)</h3>
   <p>
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
@@ -34,7 +35,8 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </p>
-  <h3>Level 1(Know only basic usage and I can code it by referring to the internet)</h3>
+  
+  <h3>🔍Level 1(Know only basic usage and I can code it by referring to the internet)</h3>
   <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   
