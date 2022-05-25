@@ -26,7 +26,7 @@
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
   
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" />
   
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   
@@ -38,6 +38,10 @@
   
   <h3>🔍Level 1(Know only basic usage and I can code it by referring to the internet)</h3>
   <p>
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  
+  
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   
   <img alt="Django" src="https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=Django&logoColor=white" />
