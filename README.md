@@ -6,8 +6,9 @@
 
 
 
-I'm wonsik, prospective `data engineer` and `backend developer` from <img src="south-korea.png" width="20"/> <b>South Korea.</b> 
-  
+- I'm wonsik, prospective `data engineer` and `backend developer` from <img src="south-korea.png" width="20"/> <b>South Korea.</b> 
+- I majored in electric engineering at DGIST(Daegu Gyeongbuk Institute of Science and Technology).
+
 <h3>Things I code with</h3>
 
 <p>
