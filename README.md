@@ -36,6 +36,7 @@
   <img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </p>
   
+  
   <h3>🔍Level 1(Know only basic usage and I can code it by referring to the internet)</h3>
   <p>
   <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />
