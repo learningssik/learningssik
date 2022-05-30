@@ -5,7 +5,7 @@
 <img src="claire-dancing.gif" width="200"/> 
 
 - 👨‍💻I'm wonsik, prospective `data engineer` and `backend developer` from <img src="south-korea.png" width="20"/> <b>South Korea</b> 
-- 👨‍🎓I majored in electric engineering at DGIST(Daegu Gyeongbuk Institute of Science and Technology)
+- 👨‍🎓I majored in `electric engineering` at `DGIST(Daegu Gyeongbuk Institute of Science and Technology)`
 
 <h2>📖My project </h2>
 
