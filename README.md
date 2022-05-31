@@ -9,9 +9,9 @@
 
 <h2>📖My project </h2>
 
-- [<a href = "https://github.com/learningssik/Computer-Vision-Project-Report">Link</a>] When I was an undergraduate at university, I conducted research on `image detection` and `image classfication` as an undergraduate research student in the <a href = "https://sites.google.com/view/mispl"> `AI/image processing lab` </a>
-- [<a href = "https://github.com/learningssik/OOP-ATMmachine">Link</a>] Team project in object oriented programming class.
-- [<a href = "https://github.com/learningssik/OOP-CoffeeShop">Link</a>] Personal project in object oriented programming class.
+- [<a href = "https://github.com/learningssik/Computer-Vision-Project-Report">Computer-Vision-Project-Report</a>] When I was an undergraduate at university, I conducted research on `image detection` and `image classfication` as an undergraduate research student in the <a href = "https://sites.google.com/view/mispl"> `AI/image processing lab` </a>
+- [<a href = "https://github.com/learningssik/OOP-ATMmachine">OOP_ATM_machine</a>] Team project in object oriented programming class.
+- [<a href = "https://github.com/learningssik/OOP-CoffeeShop">OOP-CoffeeShop</a>] Personal project in object oriented programming class.
 
 
 
