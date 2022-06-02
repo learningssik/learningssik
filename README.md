@@ -7,6 +7,8 @@
 - 👨‍💻I'm wonsik, prospective `data engineer` and `backend developer` from <img src="south-korea.png" width="20"/> <b>South Korea</b> 
 - 👨‍🎓I majored in `electric engineering` at `DGIST(Daegu Gyeongbuk Institute of Science and Technology)`
 
+
+
 <h2>📖My project </h2>
 
 - [<a href = "https://github.com/learningssik/Computer-Vision-Project-Report">Computer-Vision-Project-Report</a>] When I was an undergraduate at university, I conducted research on `image detection` and `image classfication` as an undergraduate research student in the <a href = "https://sites.google.com/view/mispl"> `AI/image processing lab` </a>
