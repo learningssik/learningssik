@@ -50,6 +50,8 @@
   
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   
+
+
   <img alt="Django" src="https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=Django&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" />
@@ -66,6 +68,7 @@
 ![learningssik's github stats](https://github-readme-stats.vercel.app/api?username=learningssik&show_icons=true) <tab> [![learningssik's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=learningssik&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/learningssik)     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoon6624)](https://solved.ac/이름/)
 <!--
+
 **MegaGnar13/MegaGnar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -76,6 +79,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...dd
 - ⚡ Fun fact: ...
 -->
