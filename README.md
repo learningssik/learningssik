@@ -68,7 +68,7 @@
 
 ![learningssik's github stats](https://github-readme-stats.vercel.app/api?username=learningssik&show_icons=true) <tab> [![learningssik's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=learningssik&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/learningssik)     
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoon6624)](https://solved.ac/이름/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoon6624)](https://solved.ac//)
   
   
 <!--
