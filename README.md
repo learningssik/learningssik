@@ -15,7 +15,7 @@
 - <a href = "https://github.com/learningssik/Computer-Vision-Project-Report">**Computer-Vision-Project-Report**</a>: When I was an undergraduate at university, I conducted research on `image detection` and `image classfication` as an undergraduate research student in the <a href = "https://sites.google.com/view/mispl"> `AI/image processing lab` </a>
 - <a href = "https://github.com/learningssik/OOP-ATMmachine">**OOP-ATMmachine**</a>: Team project in object oriented programming class.
 - <a href = "https://github.com/learningssik/OOP-CoffeeShop">**OOP-CoffeeShop**</a>: Personal project in object oriented programming class.
-- <a href = "https://velog.io/@learningssik/PCA-t-SNE-%EC%B0%A8%EC%9B%90-%EB%B6%84%EC%84%9D1"?**ETRI fassion data analysis through dimension reduction**</a>": Team project about ETRI fassion data
+- <a href = "https://velog.io/@learningssik/PCA-t-SNE-%EC%B0%A8%EC%9B%90-%EB%B6%84%EC%84%9D1">**ETRI fassion data analysis**</a>: ETRI fassion data analysis and visualization through dimension reduction(`PAC`, `t-SNE`)
 
 
 <h2>💻Things I code with</h2>
