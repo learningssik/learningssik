@@ -1,9 +1,9 @@
 ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Hello%20World!&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Wonssik's%20github%20profile&descAlignY=70)
 
-
+<!--
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! </h1>
 <img src="claire-dancing.gif" width="200"/> 
-
+-->
 
 - 👨‍💻I'm wonsik, `data engineer` from <img src="south-korea.png" width="20"/> <b>South Korea</b> 
 - 👨‍🎓I majored in `electric engineering` at `DGIST(Daegu Gyeongbuk Institute of Science and Technology)`
